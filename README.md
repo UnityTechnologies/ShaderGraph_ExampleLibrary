@@ -18,4 +18,4 @@ Required: [Unity 2018.1b3](https://unity3d.com/unity/beta/unity2018.1.0b3)
 
 if you have any issues or requests for the Shader Graph Example Library; please reach out to Andy Touch:
 - Email: andyt[at]unity3d.com
-- Twitter: @andytouch
+- Twitter: [@andytouch](https://twitter.com/andytouch)
