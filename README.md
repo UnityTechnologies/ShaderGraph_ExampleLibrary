@@ -11,11 +11,11 @@ These Shader Graphs are provided as-is; so your mileage may vary! You are more t
 
 **Sofware Requirement**
 
-Required: Unity 2018.1b3
+Required: [Unity 2018.1b3](https://unity3d.com/unity/beta/unity2018.1.0b3)
 
 
 **Contact**
 
 if you have any issues or requests for the Shader Graph Example Library; please reach out to Andy Touch:
-Email: andyt[at]unity3d.com
-Twitter: @andytouch
+- Email: andyt[at]unity3d.com
+- Twitter: @andytouch
