@@ -8,6 +8,19 @@ This project is a library of different custom shaders created using [Unity 2018.
 
 These Shader Graphs are provided as-is; so your mileage may vary! You are more than welcome to modify/change/extract/use any of the examples.
 
+The current list of Shader Graphs included:
+- Colored Rim
+- Scrolling Texture Overlay
+- Colored Gradient
+- Sliced (Inspired by 
+[Sliced Shader in Surface Shader Documentation](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html))
+- Snow
+- Toon Ramp (No Lighting Data so I used a manual Vector 3 property for Light Direction)
+- Texture Dissolve (With Colored Edge)
+- Hologram (Using Screen Position)
+- Colored Ghost Noise
+- Phase In And Out (Split with a Colored Edge)
+
 
 **Sofware Requirement**
 
@@ -16,6 +29,6 @@ Required: [Unity 2018.1b3](https://unity3d.com/unity/beta/unity2018.1.0b3)
 
 **Contact**
 
-if you have any issues or requests for the Shader Graph Example Library; please reach out to Andy Touch:
+if you have any issues & requests for the Shader Graph Example Library; please reach out to Andy Touch:
 - Email: andyt[at]unity3d.com
 - Twitter: [@andytouch](https://twitter.com/andytouch)
