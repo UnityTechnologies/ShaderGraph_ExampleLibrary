@@ -22,7 +22,7 @@ The current list of Shader Graphs included:
 - Phase In And Out (Split with a Colored Edge)
 
 
-**Sofware Requirement**
+**Software Requirement**
 
 Required: [Unity 2018.1b3](https://unity3d.com/unity/beta/unity2018.1.0b3)
 
