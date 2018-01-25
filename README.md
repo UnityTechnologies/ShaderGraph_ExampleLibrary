@@ -9,6 +9,8 @@ This project is a library of different custom shaders created using [Unity 2018.
 These Shader Graphs are provided as-is; so your mileage may vary! You are more than welcome to modify/change/extract/use any of the examples.
 
 The current list of Shader Graphs included:
+
+Any Mesh:
 - Colored Rim
 - Scrolling Texture Overlay
 - Colored Gradient
@@ -21,10 +23,15 @@ The current list of Shader Graphs included:
 - Colored Ghost Noise
 - Phase In And Out (Split with a Colored Edge)
 
+Particles:
+- Basic Solid Circle
+- Basic Soft Circle
+
+
 
 **Software Requirement**
 
-Required: [Unity 2018.1b3](https://unity3d.com/unity/beta/unity2018.1.0b3)
+Required: [Unity 2018.1b4](https://unity3d.com/unity/beta/unity2018.1.0b4)
 
 
 **Known Issues**
