@@ -99,6 +99,8 @@ Material:
     - Float_80A85CFE: 0.16
     - Float_8F483F7B: 0.46
     - Float_ED6B82AF: 100
+    - Vector1_276B8D4: 0.1
+    - Vector1_80A85CFE: 0.22
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -118,7 +120,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_1ECE05FF: {r: 1, g: 1, b: 1, a: 1}
-    - Color_E38478F7: {r: 1, g: 1, b: 1, a: 1}
+    - Color_E38478F7: {r: 1, g: 0.2554821, b: 0, a: 1}
     - Color_FE2FFFDC: {r: 1, g: 1, b: 1, a: 1}
     - Vector3_7DDC8105: {r: 0, g: 1, b: 0, a: 0}
     - Vector3_E4E9DA33: {r: 0, g: 1, b: 0, a: 0}

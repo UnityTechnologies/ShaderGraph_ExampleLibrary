@@ -76,6 +76,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Float_D9008F3D: 1
+    - Vector1_D9008F3D: 0.87
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1

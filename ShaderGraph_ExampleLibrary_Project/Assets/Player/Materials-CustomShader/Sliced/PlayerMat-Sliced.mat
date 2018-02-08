@@ -78,6 +78,9 @@ Material:
     - Float_1CBCCE5F: 5.56
     - Float_1CFC2E95: 0.3
     - Float_B08694A8: -0.92
+    - Vector1_1CBCCE5F: 0.4
+    - Vector1_1CFC2E95: 0.5
+    - Vector1_B08694A8: 4.01
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
