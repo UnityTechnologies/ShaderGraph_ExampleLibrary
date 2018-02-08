@@ -26,6 +26,7 @@ Any Mesh:
 Particles:
 - Basic Solid Circle
 - Basic Soft Circle
+- Spiral
 
 
 
