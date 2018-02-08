@@ -32,7 +32,7 @@ Particles:
 
 **Software Requirement**
 
-Required: [Unity 2018.1b4](https://unity3d.com/unity/beta/unity2018.1.0b4)
+Required: [Unity 2018.1b6](https://unity3d.com/unity/beta/unity2018.1.0b6)
 
 
 **Known Issues**
