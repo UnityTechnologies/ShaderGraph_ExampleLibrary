@@ -1,7 +1,6 @@
 {
-	"registry": "https://staging-packages.unity.com",
-	"dependencies": {
-		"com.unity.render-pipelines.lightweight": "0.1.28",
-		"com.unity.shadergraph": "0.1.17"
-	}
+    "registry": "https://staging-packages.unity.com",
+    "dependencies": {
+        "com.unity.render-pipelines.lightweight": "1.0.0-beta"
+    }
 }
