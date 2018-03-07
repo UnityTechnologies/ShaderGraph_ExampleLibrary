@@ -32,7 +32,11 @@ Particles:
 
 **Software Requirement**
 
-Required: [Unity 2018.1b6](https://unity3d.com/unity/beta/unity2018.1.0b6)
+Required:
+[Unity 2018.1b8](https://unity3d.com/unity/beta/unity2018.1.0b8)
+
+Package: com.unity.render-pipelines.lightweight: 1.0.0-beta
+
 
 
 **Known Issues**
