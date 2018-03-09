@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 429445aeeb26a441fb0e2d02fdc4614c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ELLEN_RUN_NoGun_01_5x5_0
+    21300002: ELLEN_RUN_NoGun_01_5x5_1
+    21300004: ELLEN_RUN_NoGun_01_5x5_2
+    21300006: ELLEN_RUN_NoGun_01_5x5_3
+    21300008: ELLEN_RUN_NoGun_01_5x5_4
+    21300010: ELLEN_RUN_NoGun_01_5x5_5
+    21300012: ELLEN_RUN_NoGun_01_5x5_6
+    21300014: ELLEN_RUN_NoGun_01_5x5_7
+    21300016: ELLEN_RUN_NoGun_01_5x5_8
+    21300018: ELLEN_RUN_NoGun_01_5x5_9
+    21300020: ELLEN_RUN_NoGun_01_5x5_10
+    21300022: ELLEN_RUN_NoGun_01_5x5_11
+    21300024: ELLEN_RUN_NoGun_01_5x5_12
+    21300026: ELLEN_RUN_NoGun_01_5x5_13
+    21300028: ELLEN_RUN_NoGun_01_5x5_14
+    21300030: ELLEN_RUN_NoGun_01_5x5_15
+    21300032: ELLEN_RUN_NoGun_01_5x5_16
+    21300034: ELLEN_RUN_NoGun_01_5x5_17
+    21300036: ELLEN_RUN_NoGun_01_5x5_18
+    21300038: ELLEN_RUN_NoGun_01_5x5_19
+    21300040: ELLEN_RUN_NoGun_01_5x5_20
+    21300042: ELLEN_RUN_NoGun_01_5x5_21
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1808
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a932a93335a54a2c9bcb9811be4db79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1808
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ab9bce712742dd8a4623b4b5433c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1808
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1be15a4e9344c0fab6894a374a0359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1808
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f230eba412a74e97a012e6d0430a9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1808
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c0851047d0441fb2f40445531d672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89eb3af5db5e4b308bc32a91a0b6ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1356
+        width: 395
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f66a77e8097a400fbb3164f116240fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1356
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895c3f1491df4fcda6acfdb6cae8ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_8
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1356
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d896fc04aa412d887ff0d4ce0ebac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_9
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1356
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66411107bb9b4d4081f2b161bf02be8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c0c94eefec4cf78977e88491b7a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 904
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbaff32222a242bf858a7dc5b36b8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 904
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f611cc49c16e41de9bc52fb96707fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_13
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 904
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842fac6e0980c493b9e4f6ffd313eaf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_14
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 904
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe0bada992a438d934fa9d54e1441b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5af8f280884eb784f43bca4a4e6b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 452
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747829a07f83d4c33b1ae2eb1b608b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 452
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a3ffe7ed724d9da9bc1b6a971a181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 452
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46c910f5c594dffa4d2f811a8c4bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_19
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 452
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352fa64c7c2348aa9b458239174fe8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b04c1b8850e4fb09f5cc8198042696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ELLEN_RUN_NoGun_01_5x5_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 395
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc47ca54f31846fc9bfac39aacf385a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d34124ed6ebeb4419ab7879c45886838
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

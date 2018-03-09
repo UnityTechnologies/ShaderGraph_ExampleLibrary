@@ -99,8 +99,8 @@ Material:
     - Float_80A85CFE: 0.16
     - Float_8F483F7B: 0.46
     - Float_ED6B82AF: 100
-    - Vector1_276B8D4: 0.31
-    - Vector1_80A85CFE: 0.53
+    - Vector1_276B8D4: 0.6
+    - Vector1_80A85CFE: 0.91
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
