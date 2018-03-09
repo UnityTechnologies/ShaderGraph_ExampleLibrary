@@ -10,7 +10,7 @@ These Shader Graphs are provided as-is; so your mileage may vary! You are more t
 
 The current list of Shader Graphs included:
 
-Any Mesh:
+Mesh Renderer:
 - Colored Rim
 - Scrolling Texture Overlay
 - Colored Gradient
@@ -28,14 +28,21 @@ Particles:
 - Basic Soft Circle
 - Spiral
 
+Sprites:
+- Basic Sprite (Simple)
+- Basic Sprite (Sub Graph)
+- Hologram Overlay
+- Glowing
+- Gradient
+- Normal Map
 
 
 **Software Requirement**
 
 Required:
-[Unity 2018.1b8](https://unity3d.com/unity/beta/unity2018.1.0b8)
+[Unity 2018.1b10](https://unity3d.com/unity/beta/unity2018.1.0b10)
 
-Package: com.unity.render-pipelines.lightweight: 1.0.0-beta
+Package: com.unity.render-pipelines.lightweight: 1.1.1-preview
 
 
 
