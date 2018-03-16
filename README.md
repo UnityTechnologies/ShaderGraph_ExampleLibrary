@@ -36,6 +36,51 @@ Sprites:
 - Gradient
 - Normal Map
 
+Procedural:
+- Shape Ellipse
+- Shape Rectangle
+- Shape Rounded Rectangle
+- Shape Polygon
+- Shape Ring
+- Shape Multiple
+- Shape Multiple Different Colors
+- Shape Inverted
+- Shape Tiled 
+- UV Offset Ping Pong
+- UV Auto Rotation
+- UV Auto Scroll
+- UV Auto Orbit
+- UV Warped
+- UV Warped Ping Pong
+- UV Spherized Ping Pong
+- UV Shape Scale Ping Pong
+- UV Auto Transforms Combined
+- Color Ping Pong
+- Color Random Flicker
+- Color Linear Gradient
+- Color Radial Gradient
+- Color Split
+- Color Split Ping Pong
+- Color Soft Split
+- Color Soft Split Ping Pong
+- Pattern Stripes
+- Pattern Checkerboard
+- Pattern Shatter
+- Pattern Shatter Auto Rotation
+- Pattern Rings
+- Pattern Rings Auto Scroll
+- Pattern Spiral
+- Pattern Spiral Auto Rotation
+- Pattern Fish Eye
+- Noise Color Blend
+- Noise Color Blend Auto Scroll
+- Noise Color Split
+- Noise Color Split Ping Pong
+- Noise Color Split Waves
+- Noise Circle
+- Noise Circle Auto Scroll
+- Noise Voronoi
+- Noise Voronoi Shuffle
 
 **Software Requirement**
 
