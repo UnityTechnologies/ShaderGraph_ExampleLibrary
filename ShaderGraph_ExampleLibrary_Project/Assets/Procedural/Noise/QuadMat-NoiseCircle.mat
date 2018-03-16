@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: QuadMat-NoiseCircle
+  m_Shader: {fileID: 4800000, guid: 8b73b4bdc240946f4be29d6e3b5c33c9, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_16AA8EF7: 300
+    - Vector1_8141FB1: 0.1
+    m_Colors:
+    - Color_4A89028: {r: 0.46162653, g: 1, b: 0.25943395, a: 0}
+    - Color_6D4C2A45: {r: 0.13756618, g: 0.5, b: 0, a: 0}
