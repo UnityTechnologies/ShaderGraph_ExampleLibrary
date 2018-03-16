@@ -1952,7 +1952,7 @@ GameObject:
   - component: {fileID: 1012050125}
   - component: {fileID: 1012050124}
   m_Layer: 0
-  m_Name: Quad - Color Auto Ping Pong
+  m_Name: Quad - Color Ping Pong
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3660,7 +3660,7 @@ GameObject:
   - component: {fileID: 1878636674}
   - component: {fileID: 1878636673}
   m_Layer: 0
-  m_Name: Quad - UV Auto Offset Ping Pong
+  m_Name: Quad - UV Offset Ping Pong
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

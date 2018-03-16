@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: QuadMat-UVAutoOffsetPingPong
+  m_Name: QuadMat-UVOffsetPingPong
   m_Shader: {fileID: 4800000, guid: 4f32b05a54ed345c6aeb1a18c4e5d124, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
