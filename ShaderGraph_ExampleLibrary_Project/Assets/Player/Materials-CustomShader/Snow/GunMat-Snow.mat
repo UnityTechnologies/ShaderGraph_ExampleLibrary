@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: GunMat-Snow
   m_Shader: {fileID: 4800000, guid: dd697a08c26714568a62ac148dd2bd78, type: 3}
@@ -18,113 +18,25 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture_1DD445A6:
+    - Texture2D_1DD445A6:
         m_Texture: {fileID: 2800000, guid: a2585b52309084b379d22ad7c6352e29, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture_31ACF7EA:
-        m_Texture: {fileID: 2800000, guid: a2585b52309084b379d22ad7c6352e29, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture_36628ED4:
-        m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture_A292BC2F:
+    - Texture2D_A292BC2F:
         m_Texture: {fileID: 2800000, guid: dff115c36813d4df68554b3f8fee91eb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture_B14CF89F:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture_E485045D:
-        m_Texture: {fileID: 2800000, guid: dff115c36813d4df68554b3f8fee91eb, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture_E85606DA:
-        m_Texture: {fileID: 2800000, guid: f626d158585294843b1c4fe5664a7783, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture_E99232F:
+    - Texture2D_E99232F:
         m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture_F4F41239:
+    - Texture2D_F4F41239:
         m_Texture: {fileID: 2800000, guid: f626d158585294843b1c4fe5664a7783, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SpecGlossMap:
-        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Float_276B8D4: 0.34
-    - Float_80A85CFE: 0.32
-    - Float_8F483F7B: 0.55
-    - Float_ED6B82AF: 100
-    - Vector1_276B8D4: 0.1
-    - Vector1_80A85CFE: 0.22
-    - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _GlossMapScale: 1
-    - _Glossiness: 0.5
-    - _GlossyReflections: 1
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 1
-    - _SrcBlend: 1
-    - _UVSec: 0
-    - _WorkflowMode: 1
-    - _ZWrite: 1
+    - Vector1_276B8D4: 0.36
+    - Vector1_80A85CFE: 0.47
     m_Colors:
-    - Color_1ECE05FF: {r: 1, g: 1, b: 1, a: 1}
     - Color_CD16CA80: {r: 1, g: 1, b: 1, a: 0}
-    - Color_E38478F7: {r: 1, g: 1, b: 1, a: 1}
-    - Color_FE2FFFDC: {r: 1, g: 1, b: 1, a: 1}
     - Vector3_7DDC8105: {r: 0, g: 1, b: 0, a: 0}
-    - Vector3_E4E9DA33: {r: 0, g: 1, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

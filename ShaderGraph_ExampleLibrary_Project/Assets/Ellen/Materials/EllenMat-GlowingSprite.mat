@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: EllenMat-GlowingSprite
   m_Shader: {fileID: 4800000, guid: 1dc42ce7782d54547a218fa209da6371, type: 3}
@@ -18,6 +18,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_AD8DEE7D:
+        m_Texture: {fileID: 2800000, guid: 429445aeeb26a441fb0e2d02fdc4614c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_AD8DEE7D:
         m_Texture: {fileID: 2800000, guid: 429445aeeb26a441fb0e2d02fdc4614c, type: 3}
         m_Scale: {x: 1, y: 1}

@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: GunMat-Hologram
   m_Shader: {fileID: 4800000, guid: f84ec24c46e4844dcadc2125cf3ed839, type: 3}
@@ -18,6 +18,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_26BE6A3A:
+        m_Texture: {fileID: 2800000, guid: 71252e23924e4491c9cdcfed734fa027, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_137BD20B:
         m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
         m_Scale: {x: 1, y: 1}

@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: EllenMat-HologramSprite
   m_Shader: {fileID: 4800000, guid: 4e67fab765b4d479a88ba2a732f7febd, type: 3}
@@ -18,6 +18,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_30F1F580:
+        m_Texture: {fileID: 2800000, guid: 429445aeeb26a441fb0e2d02fdc4614c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7D8392C7:
+        m_Texture: {fileID: 2800000, guid: 71252e23924e4491c9cdcfed734fa027, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_30F1F580:
         m_Texture: {fileID: 2800000, guid: 429445aeeb26a441fb0e2d02fdc4614c, type: 3}
         m_Scale: {x: 1, y: 1}
