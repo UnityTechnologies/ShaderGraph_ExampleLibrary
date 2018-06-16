@@ -85,9 +85,9 @@ Procedural:
 **Software Requirement**
 
 Required:
-[Unity 2018.1b10](https://unity3d.com/unity/beta/unity2018.1.0b10)
+Unity 2018.1.5
 
-Package: com.unity.render-pipelines.lightweight: 1.1.1-preview
+Package: com.unity.render-pipelines.lightweight: 1.1.10-preview
 
 
 
