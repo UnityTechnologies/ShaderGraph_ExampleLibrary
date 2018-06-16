@@ -1,6 +1,7 @@
 {
   "registry": "https://staging-packages.unity.com",
   "dependencies": {
-    "com.unity.render-pipelines.lightweight": "1.1.1-preview"
+    "com.unity.render-pipelines.lightweight": "1.1.10-preview",
+    "com.unity.package-manager-ui": "1.9.3"
   }
 }
