@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SlidingDoor_mat
+  m_Shader: {fileID: 4800000, guid: 0019bb0da30b262419bff4a7cb8bb3d2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1D685C6E:
+        m_Texture: {fileID: 2800000, guid: 09ab3c42b2d8cfa46aa1c7471610689c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5587757A:
+        m_Texture: {fileID: 2800000, guid: adb5d800bbecb5647b7650a52a69e5f0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_68027965:
+        m_Texture: {fileID: 2800000, guid: 71252e23924e4491c9cdcfed734fa027, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_94080543:
+        m_Texture: {fileID: 2800000, guid: 13d8db17d72efa94e9c9c28fa4932cdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A8DBD458:
+        m_Texture: {fileID: 2800000, guid: 81034207a764ba84f97c56899786a35f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4161A9B2: 6
+    - Vector1_9CD5D16B: 1
+    - Vector1_B5B4FA22: 20
+    - Vector1_BFEC4306: 0.725
+    - Vector1_C8E620EB: 0.094
+    - Vector1_DB81663A: 0.5
+    - Vector1_DC5AFD42: 1
+    m_Colors:
+    - Color_E9ED5B0C: {r: 7.9066987, g: 0.6623413, b: 0, a: 1}
+    - Vector2_A2DA45B2: {r: -0.1, g: 0.1, b: 0, a: 0}

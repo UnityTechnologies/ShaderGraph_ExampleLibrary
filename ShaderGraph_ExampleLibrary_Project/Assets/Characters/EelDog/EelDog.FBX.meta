@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: df752f2b2e46d294ab7cd0c236782365
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Eeldog
+    100004: EeldogBody1
+    100006: EeldogBody2
+    100008: EeldogBody3
+    100010: EeldogBody4
+    100012: EeldogBody5
+    100014: EeldogBody6
+    100016: EeldogBody7
+    100018: EeldogBodyEND
+    100020: EeldogLowerMouth
+    100022: EeldogLowerMouthEND
+    100024: EeldogUpperMouth
+    100026: EeldogUpperMouthEND
+    100028: Root1
+    100030: Root
+    400000: //RootNode
+    400002: Eeldog
+    400004: EeldogBody1
+    400006: EeldogBody2
+    400008: EeldogBody3
+    400010: EeldogBody4
+    400012: EeldogBody5
+    400014: EeldogBody6
+    400016: EeldogBody7
+    400018: EeldogBodyEND
+    400020: EeldogLowerMouth
+    400022: EeldogLowerMouthEND
+    400024: EeldogUpperMouth
+    400026: EeldogUpperMouthEND
+    400028: Root1
+    400030: Root
+    2100000: Eeldog_mat
+    4300000: Eeldog
+    9500000: //RootNode
+    13700000: Eeldog
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eeldog_Yellow_Mat
+    second: {fileID: 2100000, guid: 9be4edf684d014dabbed0ca0933bd2df, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
