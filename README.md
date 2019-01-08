@@ -4,97 +4,22 @@
 
 **Description**
 
-This project is a library of different custom shaders created using [Unity 2018.1's Shader Graph feature](https://forum.unity.com/threads/feedback-wanted-shader-graph.511960/). All of the shaders are compatible for the [Lightweight Scriptable Render Pipeline](https://forum.unity.com/threads/feedback-wanted-scriptable-render-pipelines.470095/).
+This project is a library of different custom shaders created using [Unity's Shader Graph feature](https://forum.unity.com/threads/feedback-wanted-shader-graph.511960/). All of the shaders are compatible for the [Lightweight Scriptable Render Pipeline](https://forum.unity.com/threads/feedback-wanted-scriptable-render-pipelines.470095/).
 
 These Shader Graphs are provided as-is; so your mileage may vary! You are more than welcome to modify/change/extract/use any of the examples.
 
-The current list of Shader Graphs included:
+Contains examples for:
+- Mesh Renderers/Skinned Mesh Renderers (located in ExampleScene-Player)
+- Simple Particles
+- Procedural Graphs and Animations (Using no Textures)
+- Sprites
+- Some 'Scenarios' such as Triplanar Grass and Vertex Offset Sine Wave
 
-Mesh Renderer:
-- Colored Rim
-- Scrolling Texture Overlay
-- Colored Gradient
-- Sliced (Inspired by 
-[Sliced Shader in Surface Shader Documentation](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html))
-- Snow
-- Toon Ramp (No Lighting Data so I used a manual Vector 3 property for Light Direction)
-- Texture Dissolve (With Colored Edge)
-- Hologram (Using Screen Position)
-- Colored Ghost Noise
-- Phase In And Out (Split with a Colored Edge)
-
-Particles:
-- Basic Solid Circle
-- Basic Soft Circle
-- Spiral
-
-Sprites:
-- Basic Sprite (Simple)
-- Basic Sprite (Sub Graph)
-- Hologram Overlay
-- Glowing
-- Gradient
-- Normal Map
-
-Procedural:
-- Shape Ellipse
-- Shape Rectangle
-- Shape Rounded Rectangle
-- Shape Polygon
-- Shape Ring
-- Shape Multiple
-- Shape Multiple Different Colors
-- Shape Inverted
-- Shape Tiled 
-- UV Offset Ping Pong
-- UV Auto Rotation
-- UV Auto Scroll
-- UV Auto Orbit
-- UV Warped
-- UV Warped Ping Pong
-- UV Spherized Ping Pong
-- UV Shape Scale Ping Pong
-- UV Auto Transforms Combined
-- Color Ping Pong
-- Color Random Flicker
-- Color Linear Gradient
-- Color Radial Gradient
-- Color Split
-- Color Split Ping Pong
-- Color Soft Split
-- Color Soft Split Ping Pong
-- Pattern Stripes
-- Pattern Checkerboard
-- Pattern Shatter
-- Pattern Shatter Auto Rotation
-- Pattern Rings
-- Pattern Rings Auto Scroll
-- Pattern Spiral
-- Pattern Spiral Auto Rotation
-- Pattern Fish Eye
-- Noise Color Blend
-- Noise Color Blend Auto Scroll
-- Noise Color Split
-- Noise Color Split Ping Pong
-- Noise Color Split Waves
-- Noise Circle
-- Noise Circle Auto Scroll
-- Noise Voronoi
-- Noise Voronoi Shuffle
 
 **Software Requirement**
 
-Required:
-<<<<<<< HEAD
-Unity 2018.1.5
-
-Package: com.unity.render-pipelines.lightweight: 1.1.10-preview
-=======
-Unity 2018.2b7
-
-Package: com.unity.render-pipelines.lightweight: 2.0.3-preview
->>>>>>> 2018.2
-
+- Version: Unity 2018.3.0f2
+- Package: com.unity.render-pipelines.lightweight: 4.6.0-preview
 
 
 **Known Issues**
