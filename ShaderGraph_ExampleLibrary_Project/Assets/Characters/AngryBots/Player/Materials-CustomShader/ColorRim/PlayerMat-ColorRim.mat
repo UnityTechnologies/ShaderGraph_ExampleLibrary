@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: PlayerMat-ColorRim
   m_Shader: {fileID: 4800000, guid: 59cf758fd4d4d419db54f04d01fc1e34, type: 3}
   m_ShaderKeywords: 
@@ -35,6 +36,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_D9008F3D: 0.94
+    - Vector1_D9008F3D: 2.03
     m_Colors:
     - Color_F0C1164F: {r: 0, g: 1, b: 0.6970329, a: 0.7843137}
