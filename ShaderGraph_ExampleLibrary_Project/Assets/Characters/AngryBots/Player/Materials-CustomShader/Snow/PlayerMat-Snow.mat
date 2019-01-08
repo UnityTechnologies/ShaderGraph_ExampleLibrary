@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PlayerMat-Snow
+  m_Shader: {fileID: 4800000, guid: dd697a08c26714568a62ac148dd2bd78, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1DD445A6:
+        m_Texture: {fileID: 2800000, guid: 206adb28e14acb0479ae315df5e1d743, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A292BC2F:
+        m_Texture: {fileID: 2800000, guid: 04de021bd91ba654488ac587e4c31e2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E99232F:
+        m_Texture: {fileID: 2800000, guid: 2da4b277e55414e498e12ef6bc54ee29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F4F41239:
+        m_Texture: {fileID: 2800000, guid: 39c790ced3e137243bff34375839baa9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_276B8D4: 0.36
+    - Vector1_80A85CFE: 0.47
+    m_Colors:
+    - Color_CD16CA80: {r: 1, g: 1, b: 1, a: 0.9098039}
+    - Vector3_7DDC8105: {r: 0, g: 1, b: 0, a: 0}

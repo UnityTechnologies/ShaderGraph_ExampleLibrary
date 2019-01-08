@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GunMat-ToonRamp
+  m_Shader: {fileID: 4800000, guid: d06fe58446ed24777b56996ad517731e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_638F8CCB:
+        m_Texture: {fileID: 2800000, guid: a2585b52309084b379d22ad7c6352e29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_66FFC51A:
+        m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A5C606A2:
+        m_Texture: {fileID: 2800000, guid: 318d5c261b6a4487a97b0933da51838a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Vector3_E6E825BE: {r: 0.5, g: 0.5, b: 0, a: 0}

@@ -85,9 +85,15 @@ Procedural:
 **Software Requirement**
 
 Required:
+<<<<<<< HEAD
 Unity 2018.1.5
 
 Package: com.unity.render-pipelines.lightweight: 1.1.10-preview
+=======
+Unity 2018.2b7
+
+Package: com.unity.render-pipelines.lightweight: 2.0.3-preview
+>>>>>>> 2018.2
 
 
 
